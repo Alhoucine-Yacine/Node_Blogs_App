@@ -1,0 +1,1 @@
+if we copy the code without the folder node_modules, we have to run npm install before running the program
